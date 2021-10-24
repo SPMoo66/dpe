@@ -22391,6 +22391,8 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_BASCULEGION] = sBasculegionLevelUpLearnset,
 	[SPECIES_WYRDEER] = sWyrdeerLevelUpLearnset,
 	[SPECIES_BRAVIARY_H] = sBraviaryHLevelUpLearnset,
+	[SPECIES_ZORUA_H] = sZoruaHLevelUpLearnset,
+	[SPECIES_ZOROARK_H] = sZoroarkHLevelUpLearnset,
 	*/
 };
 #endif
