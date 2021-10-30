@@ -6343,5 +6343,20 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x0,
 	},
+	[SPECIES_WYRDEER] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BASCULEGION] =
+	{
+		.size = 0x0,
+		.y_offset = 0xd,
+	},
+	[SPECIES_KLEAVOR] =
+	{
+		.size = 0x0,
+		.y_offset = 0x2,
+	},
 };
 

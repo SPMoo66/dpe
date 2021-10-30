@@ -1274,4 +1274,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_DURALUDON_GIGA] =       {gFrontSpriteGigaDuraludonTiles, (64 * 64) / 2, SPECIES_DURALUDON_GIGA},
 	[SPECIES_URSHIFU_SINGLE_GIGA] =  {gFrontSpriteGigaUrshifuSingleTiles, (64 * 64) / 2, SPECIES_URSHIFU_SINGLE_GIGA},
 	[SPECIES_URSHIFU_RAPID_GIGA] =   {gFrontSpriteGigaUrshifuRapidTiles, (64 * 64) / 2, SPECIES_URSHIFU_RAPID_GIGA},
+	[SPECIES_WYRDEER] =              {gFrontSprite1234WyrdeerTiles, (64 * 64) / 2, SPECIES_WYRDEER},
+	[SPECIES_BASCULEGION] =          {gFrontSprite1235BasculegionTiles, (64 * 64) / 2, SPECIES_BASCULEGION},
+	[SPECIES_KLEAVOR] =              {gFrontSprite1236KleavorTiles, (64 * 64) / 2, SPECIES_KLEAVOR},
 };

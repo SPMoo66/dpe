@@ -1274,4 +1274,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_DURALUDON_GIGA] =       {gFrontSpriteGigaDuraludonPal, SPECIES_DURALUDON_GIGA, 0x0},
 	[SPECIES_URSHIFU_SINGLE_GIGA] =  {gFrontSpriteGigaUrshifuSinglePal, SPECIES_URSHIFU_SINGLE_GIGA, 0x0},
 	[SPECIES_URSHIFU_RAPID_GIGA] =   {gFrontSpriteGigaUrshifuRapidPal, SPECIES_URSHIFU_RAPID_GIGA, 0x0},
+	[SPECIES_WYRDEER] =              {gFrontSprite1234WyrdeerPal, SPECIES_WYRDEER, 0x0},
+	[SPECIES_BASCULEGION] =          {gFrontSprite1235BasculegionPal, SPECIES_BASCULEGION, 0x0},
+	[SPECIES_KLEAVOR] =              {gFrontSprite1236KleavorPal, SPECIES_KLEAVOR, 0x0},
 };

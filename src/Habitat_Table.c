@@ -84,8 +84,6 @@ const u16 gGrasslandPage10[] =
 {
 	SPECIES_EKANS,
 	SPECIES_ARBOK,
-	SPECIES_SCYTHER,
-	SPECIES_SCIZOR,
 };
 
 const u16 gGrasslandPage11[] =
@@ -435,6 +433,13 @@ const u16 gGrasslandPage57[] =
 	SPECIES_MORPEKO_HANGRY,
 };
 
+const u16 gGrasslandPage58[] =
+{
+	SPECIES_SCYTHER,
+	SPECIES_SCIZOR,
+	SPECIES_KLEAVOR,
+};
+
 const u16 gForestPage1[] =
 {
 	SPECIES_CATERPIE,
@@ -574,6 +579,8 @@ const u16 gForestPage15[] =
 {
 	SPECIES_VOLBEAT,
 	SPECIES_ILLUMISE,
+	SPECIES_STANTLER,
+	SPECIES_WYRDEER,
 };
 
 const u16 gForestPage16[] =
@@ -621,7 +628,6 @@ const u16 gForestPage22[] =
 {
 	SPECIES_AIPOM,
 	SPECIES_AMBIPOM,
-	SPECIES_STANTLER,
 	SPECIES_KECLEON,
 };
 
@@ -1102,6 +1108,7 @@ const u16 gWatersEdgePage24[] =
 {
 	SPECIES_BASCULIN_RED,
 	SPECIES_BASCULIN_BLUE,
+	SPECIES_BASCULEGION,
 };
 
 const u16 gWatersEdgePage25[] =

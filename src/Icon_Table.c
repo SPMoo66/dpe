@@ -1271,4 +1271,7 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_DURALUDON_GIGA] =       gIconSpriteGigaDuraludonTiles,
 	[SPECIES_URSHIFU_SINGLE_GIGA] =  gIconSpriteGigaUrshifuSingleTiles,
 	[SPECIES_URSHIFU_RAPID_GIGA] =   gIconSpriteGigaUrshifuRapidTiles,
+	[SPECIES_WYRDEER] =              gIconSprite1234WyrdeerTiles,
+	[SPECIES_BASCULEGION] =          gIconSprite1235BasculegionTiles,
+	[SPECIES_KLEAVOR] =              gIconSprite1236KleavorTiles,
 };
