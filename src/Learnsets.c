@@ -21012,7 +21012,7 @@ static const struct LevelUpMove sStunfiskGLevelUpLearnset[] = {
 	LEVEL_UP_MOVE(65, MOVE_FISSURE),
 	LEVEL_UP_END
 };		
-/*
+
 static const struct LevelUpMove sKleavorLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_ACCELEROCK),
 	LEVEL_UP_MOVE( 1, MOVE_ACCELEROCK),
@@ -21093,7 +21093,7 @@ static const struct LevelUpMove sWyrdeerLevelUpLearnset[] = {
 	LEVEL_UP_MOVE(60, MOVE_PHOTONGEYSER),
 	LEVEL_UP_END
 };
-
+/*
 static const struct LevelUpMove sBraviaryHLevelUpLearnset[] = {
 	LEVEL_UP_MOVE( 0, MOVE_EXTRASENSORY),
 	LEVEL_UP_MOVE( 1, MOVE_EXTRASENSORY),
