@@ -10796,6 +10796,45 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 0,
 		.trainerOffset = 0,
 	},
+	
+	[NATIONAL_DEX_WYRDEER] =
+	{
+		.categoryName = {_B, _i, _g, _SPACE, _H, _o, _r, _n, _END, _SPACE, _SPACE, _SPACE},
+		.height = 18,
+		.weight = 951,
+		.description = DEX_ENTRY_WYRDEER,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_BASCULEGION] =
+	{
+		.categoryName = {_B, _i, _g, _SPACE, _F, _i, _s, _h, _END, _SPACE, _SPACE, _SPACE},
+		.height = 30,
+		.weight = 1100,
+		.description = DEX_ENTRY_BASCULEGION,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_KLEAVOR] =
+	{
+		.categoryName = {_A, _x, _e, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 18,
+		.weight = 890,
+		.description = DEX_ENTRY_KLEAVOR,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed

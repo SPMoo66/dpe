@@ -40896,7 +40896,7 @@ const struct BaseStats gBaseStats[] =
 		.hiddenAbility = ABILITY_NONE,
 		.noFlip = TRUE,
 	},
-/*
+
 	[SPECIES_WYRDEER] =
 	{
 		.baseHP 		= 85,
@@ -40995,7 +40995,7 @@ const struct BaseStats gBaseStats[] =
 		.hiddenAbility = ABILITY_COMPOUNDEYES,
 		.noFlip = TRUE,
 	},
-	
+/*	
 	[SPECIES_BRAVIARY_H] =
 	{
 		.baseHP 		= 95,

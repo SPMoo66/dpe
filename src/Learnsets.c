@@ -22436,10 +22436,10 @@ const struct LevelUpMove* const gLevelUpLearnsets[NUM_SPECIES] =
 	[SPECIES_DURALUDON_GIGA] = sDuraludonLevelUpLearnset,
 	[SPECIES_URSHIFU_SINGLE_GIGA] = sUrshifuLevelUpLearnset,
 	[SPECIES_URSHIFU_RAPID_GIGA] = sUrshifuRapidLevelUpLearnset,
-	/*
 	[SPECIES_KLEAVOR] = sKleavorLevelUpLearnset,
 	[SPECIES_BASCULEGION] = sBasculegionLevelUpLearnset,
 	[SPECIES_WYRDEER] = sWyrdeerLevelUpLearnset,
+	/*
 	[SPECIES_BRAVIARY_H] = sBraviaryHLevelUpLearnset,
 	[SPECIES_ZORUA_H] = sZoruaHLevelUpLearnset,
 	[SPECIES_ZOROARK_H] = sZoroarkHLevelUpLearnset,

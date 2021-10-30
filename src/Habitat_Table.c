@@ -2665,6 +2665,7 @@ const struct HabitatPage gGrasslandPages[] =
 	{gGrasslandPage55, ARRAY_COUNT(gGrasslandPage55)}, 
 	{gGrasslandPage56, ARRAY_COUNT(gGrasslandPage56)}, 
 	{gGrasslandPage57, ARRAY_COUNT(gGrasslandPage57)}, 
+	{gGrasslandPage58, ARRAY_COUNT(gGrasslandPage58)}, 
 };
 
 const struct HabitatPage gForestPages[] =
