@@ -6346,16 +6346,16 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_WYRDEER] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x0,
 	},
 	[SPECIES_BASCULEGION] =
 	{
 		.size = 0x0,
-		.y_offset = 0x10,
+		.y_offset = 0x0,
 	},
 	[SPECIES_KLEAVOR] =
 	{
 		.size = 0x0,
-		.y_offset = 0x4,
+		.y_offset = 0x0,
 	},
 };
