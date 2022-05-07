@@ -625,7 +625,6 @@ const u16 gForestPage21[] =
 {
 	SPECIES_MURKROW,
 	SPECIES_HONCHKROW,
-	SPECIES_EXEGGCUTE_A,
 	SPECIES_EXEGGUTOR_A,
 };
 
@@ -1656,7 +1655,6 @@ const u16 gMountainPage6[] =
 {
 	SPECIES_CUBONE,
 	SPECIES_MAROWAK,
-	SPECIES_CUBONE_A,
 	SPECIES_MAROWAK_A,
 };
 
@@ -2133,7 +2131,6 @@ const u16 gUrbanPage4[] =
 {
 	SPECIES_GRIMER_A,
 	SPECIES_MUK_A,
-	SPECIES_KOFFING_G,
 	SPECIES_WEEZING_G,
 };
 
@@ -2173,7 +2170,6 @@ const u16 gUrbanPage9[] =
 
 const u16 gUrbanPage10[] =
 {
-	SPECIES_MIME_JR_G,
 	SPECIES_MR_MIME_G,
 	SPECIES_MR_RIME,
 };
