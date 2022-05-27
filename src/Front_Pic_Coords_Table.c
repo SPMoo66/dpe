@@ -6351,27 +6351,27 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_KLEAVOR] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x2,
 	},
 	[SPECIES_URSALUNA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x2,
 	},
 	[SPECIES_BASCULEGION] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x3,
 	},
 	[SPECIES_SNEASLER] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x2,
 	},
 	[SPECIES_OVERQWIL] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0x2,
 	},
 	[SPECIES_ENAMORUS] =
 	{
@@ -6381,12 +6381,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_ENAMORUS_THERIAN] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x3,
 	},
 	[SPECIES_GROWLITHE_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x6,
 	},
 	[SPECIES_ARCANINE_H] =
 	{
@@ -6396,12 +6396,12 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_VOLTORB_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0xa,
 	},
 	[SPECIES_ELECTRODE_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x8,
 	},
 	[SPECIES_TYPHLOSION_H] =
 	{
@@ -6411,17 +6411,17 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_QWILFISH_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x1,
+		.y_offset = 0xa,
 	},
 	[SPECIES_SNEASEL_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x8,
 	},
 	[SPECIES_SAMUROTT_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x3,
 	},
 	[SPECIES_LILLIGANT_H] =
 	{
@@ -6431,7 +6431,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_ZORUA_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x4,
 	},
 	[SPECIES_ZOROARK_H] =
 	{
@@ -6446,7 +6446,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_SLIGGOO_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x4,
 	},
 	[SPECIES_GOODRA_H] =
 	{
@@ -6456,7 +6456,7 @@ const struct MonCoords gMonFrontPicCoords[NUM_SPECIES] =
 	[SPECIES_AVALUGG_H] =
 	{
 		.size = 0x0,
-		.y_offset = 0x0,
+		.y_offset = 0x4,
 	},
 	[SPECIES_DECIDUEYE_H] =
 	{
