@@ -1017,7 +1017,15 @@ enum
 #define NATIONAL_DEX_OVERQWIL 904
 #define NATIONAL_DEX_ENAMORUS 905
 
-#define FINAL_DEX_ENTRY NATIONAL_DEX_ENAMORUS //Not +1 b/c used like this for some asm
+//Fake
+#define NATIONAL_DEX_ARSELLOSKY 906
+#define NATIONAL_DEX_EVALEON 907
+#define NATIONAL_DEX_AEREON 908
+#define NATIONAL_DEX_CONTAGEON 909
+#define NATIONAL_DEX_LANEON 910
+#define NATIONAL_DEX_SCALEON 911
+
+#define FINAL_DEX_ENTRY NATIONAL_DEX_SCALEON //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
 
 extern const u8 DEX_ENTRY_TURTWIG[];
@@ -1539,6 +1547,12 @@ extern const u8 DEX_ENTRY_BASCULEGION[];
 extern const u8 DEX_ENTRY_SNEASLER[];
 extern const u8 DEX_ENTRY_OVERQWIL[];
 extern const u8 DEX_ENTRY_ENAMORUS[];
+extern const u8 DEX_ENTRY_ARSELLOSKY[];
+extern const u8 DEX_ENTRY_EVALEON[];
+extern const u8 DEX_ENTRY_AEREON[];
+extern const u8 DEX_ENTRY_CONTAGEON[];
+extern const u8 DEX_ENTRY_LANEON[];
+extern const u8 DEX_ENTRY_SCALEON[];
 
 extern const u8 DEX_ENTRY_RATTATA_A[];
 extern const u8 DEX_ENTRY_RATICATE_A[];
@@ -1626,3 +1640,12 @@ extern const u8 DEX_ENTRY_SLIGGOO_H[];
 extern const u8 DEX_ENTRY_GOODRA_H[];
 extern const u8 DEX_ENTRY_AVALUGG_H[];
 extern const u8 DEX_ENTRY_DECIDUEYE_H[];
+extern const u8 DEX_ENTRY_GOLEM_F[];
+extern const u8 DEX_ENTRY_CLOYSTER_F[];
+extern const u8 DEX_ENTRY_SHUCKLE_F[];
+extern const u8 DEX_ENTRY_SKARMORY_F[];
+extern const u8 DEX_ENTRY_BRELOOM_F[];
+extern const u8 DEX_ENTRY_GIGALITH_F[];
+extern const u8 DEX_ENTRY_WOOLOO_F[];
+extern const u8 DEX_ENTRY_DUBWOOL_F[];
+extern const u8 DEX_ENTRY_OCTILLERY_F[];

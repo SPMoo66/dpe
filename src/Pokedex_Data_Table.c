@@ -10887,6 +10887,84 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 0,
 		.trainerOffset = 0,
 	},
+	
+	[NATIONAL_DEX_ARSELLOSKY] =
+	{
+		.categoryName = {_P, _l, _a, _t, _e, _d, _SPACE, _B, _i, _r, _d, _END},
+		.height = 16,
+		.weight = 480,
+		.description = DEX_ENTRY_ARSELLOSKY,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_EVALEON] =
+	{
+		.categoryName = {_E, _v, _o, _l, _u, _t, _i, _o, _n, _END, _SPACE, _SPACE},
+		.height = 16,
+		.weight = 480,
+		.description = DEX_ENTRY_EVALEON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_AEREON] =
+	{
+		.categoryName = {_C, _l, _o, _u, _d, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 16,
+		.weight = 480,
+		.description = DEX_ENTRY_AEREON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_CONTAGEON] =
+	{
+		.categoryName = {_P, _a, _n, _d, _e, _m, _i, _c, _END, _SPACE, _SPACE, _SPACE},
+		.height = 16,
+		.weight = 480,
+		.description = DEX_ENTRY_CONTAGEON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_LANEON] =
+	{
+		.categoryName = {_S, _u, _n, _SPACE, _D, _r, _i, _e, _d, _END, _SPACE, _SPACE},
+		.height = 16,
+		.weight = 480,
+		.description = DEX_ENTRY_LANEON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_SCALEON] =
+	{
+		.categoryName = {_D, _r, _a, _c, _o, _n, _i, _c, _END, _SPACE, _SPACE, _SPACE},
+		.height = 16,
+		.weight = 480,
+		.description = DEX_ENTRY_SCALEON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed
@@ -10981,5 +11059,14 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_ENTRY(GOODRA_H),
 	ALTERNATE_ENTRY(AVALUGG_H),
 	ALTERNATE_ENTRY(DECIDUEYE_H),
+	ALTERNATE_ENTRY(GOLEM_F),
+	ALTERNATE_ENTRY(CLOYSTER_F),
+	ALTERNATE_ENTRY(SHUCKLE_F),
+	ALTERNATE_ENTRY(SKARMORY_F),
+	ALTERNATE_ENTRY(BRELOOM_F),
+	ALTERNATE_ENTRY(GIGALITH_F),
+	ALTERNATE_ENTRY(WOOLOO_F),
+	ALTERNATE_ENTRY(DUBWOOL_F),
+	ALTERNATE_ENTRY(OCTILLERY_F),
 	{SPECIES_TABLES_TERMIN, 0} 
 };
